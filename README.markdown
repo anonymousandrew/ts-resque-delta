@@ -1,3 +1,6 @@
+2013, Jan 25
+Updated to handled multi-instance resque pool. This works for us and will probably blow up for you.
+
 Delayed Deltas for Thinking Sphinx (with Resque)
 ================================================
 [![Build Status](https://secure.travis-ci.org/agibralter/ts-resque-delta.png?branch=master)](http://travis-ci.org/agibralter/ts-resque-delta)
